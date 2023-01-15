@@ -2,3 +2,6 @@
 .vscode
 target
 create-manifest.sh
+umbrel-apps
+citadel
+citadel-apps

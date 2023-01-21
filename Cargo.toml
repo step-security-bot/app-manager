@@ -30,7 +30,7 @@ clap = { version = "4.1", features = ["derive"], optional = true }
 tera = { default-features = false, optional = true, git = "https://github.com/AaronDewes/tera", rev = "91741d0" }
 dotenv = { version = "0.15.0", optional = true }
 tempdir = { version = "0.3.7", optional = true }
-git2 = { version = "0.15.0", optional = true }
+git2 = { version = "0.16.1", optional = true }
 fs_extra = { version = "1.2.0", optional = true }
 tracing-subscriber = { version = "0.3.16", optional = true }
 libz-sys = { version = "1.1.0", default-features = false, features = ["libc", "static"], optional = true }
